@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: skyblue;
+}
+
+h1 {
+  font-size: 38px
+}
+
+h2 {
+  font-size: 32px
+}
+
+.ingredients-list {
+  list-style: square inside;
+}
+
+ol li {
+  list-style: armenian;
+}
+
+header > img {
+  width: 200px
+}
+
+ul li a{
+  text-decoration: none;
+  color: inherit;
+}
+
+input {
+  width: 15%
+}
